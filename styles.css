@@ -1,0 +1,22 @@
+body{
+    font-family: "Poppins";
+    background: #321E5A;
+background: linear-gradient(90deg, rgba(50, 30, 90, 1) 0%, rgba(27, 19, 50, 1) 51%, rgba(50, 30, 90, 1) 100%);
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.login{
+    background-color: white;
+    margin: auto;
+    margin-top: 250px;
+    width: 350px;
+    height: 300px;
+    box-shadow: 0 0 15px black;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
